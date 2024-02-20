@@ -1,0 +1,14 @@
+C:\Users\omers\source\repos\KodlamaIO-3\KodlamaIO-3\obj\Debug\net8.0\KodlamaIO-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omers\source\repos\KodlamaIO-3\KodlamaIO-3\obj\Debug\net8.0\KodlamaIO-3.AssemblyInfoInputs.cache
+C:\Users\omers\source\repos\KodlamaIO-3\KodlamaIO-3\obj\Debug\net8.0\KodlamaIO-3.AssemblyInfo.cs
+C:\Users\omers\source\repos\KodlamaIO-3\KodlamaIO-3\obj\Debug\net8.0\KodlamaIO-3.csproj.CoreCompileInputs.cache
+C:\Users\omers\source\repos\KodlamaIO-3\KodlamaIO-3\bin\Debug\net8.0\KodlamaIO-3.exe
+C:\Users\omers\source\repos\KodlamaIO-3\KodlamaIO-3\bin\Debug\net8.0\KodlamaIO-3.deps.json
+C:\Users\omers\source\repos\KodlamaIO-3\KodlamaIO-3\bin\Debug\net8.0\KodlamaIO-3.runtimeconfig.json
+C:\Users\omers\source\repos\KodlamaIO-3\KodlamaIO-3\bin\Debug\net8.0\KodlamaIO-3.dll
+C:\Users\omers\source\repos\KodlamaIO-3\KodlamaIO-3\bin\Debug\net8.0\KodlamaIO-3.pdb
+C:\Users\omers\source\repos\KodlamaIO-3\KodlamaIO-3\obj\Debug\net8.0\KodlamaIO-3.dll
+C:\Users\omers\source\repos\KodlamaIO-3\KodlamaIO-3\obj\Debug\net8.0\refint\KodlamaIO-3.dll
+C:\Users\omers\source\repos\KodlamaIO-3\KodlamaIO-3\obj\Debug\net8.0\KodlamaIO-3.pdb
+C:\Users\omers\source\repos\KodlamaIO-3\KodlamaIO-3\obj\Debug\net8.0\KodlamaIO-3.genruntimeconfig.cache
+C:\Users\omers\source\repos\KodlamaIO-3\KodlamaIO-3\obj\Debug\net8.0\ref\KodlamaIO-3.dll
